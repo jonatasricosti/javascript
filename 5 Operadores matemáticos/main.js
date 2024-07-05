@@ -1,6 +1,3 @@
-// Operador de atribuição (=)
-
-
 // Operadores matemáticos
 
 document.write(5+2); // + adição
@@ -16,6 +13,9 @@ document.write(36/2); // divisão
 document.write("<br>"); // pula linha
 
 document.write(50 % 12); // % módulo ou resto da divisão
+document.write("<br>"); // pula linha
+
+document.write(2 ** 10); // potenciação ou exponencial 2 ^ 10 = 1024
 document.write("<br>"); // pula linha
 
 
