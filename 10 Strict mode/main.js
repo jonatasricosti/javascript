@@ -18,7 +18,7 @@ Para ativar o "strict mode" em um script, basta adicionar a declaração "use st
 "use strict"; // modo strict mode ativado
 
 // com o modo strict mode ativado não podemos declarar uma variável dessa forma
-//nome = "Jonatas"
+// nome = "Jonatas"
 
 let nome = "Jonatas"
 
