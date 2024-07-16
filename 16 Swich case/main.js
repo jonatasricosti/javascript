@@ -1,8 +1,6 @@
 // o comando switch case serve pra fazer máquina de estado finita
 
-
 let estado = 0
-
 
 
 // ao mudar a variável muda seu estado
