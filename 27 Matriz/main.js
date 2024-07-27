@@ -68,7 +68,3 @@ for(let linha = 0; linha < matrix.length; linha++)
 
  document.write('</table>'); // fim da tabela
 
-
-
-console.log(matrix.length);
-
